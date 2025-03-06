@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerry Vien Flores</h1>
 <h3 align="center">A passionate full-stack developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=05-14th&label=Profile%20views&color=0e75b6&style=flat" alt="05-14th" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=05-14th&label=Profile%20views&color=0e75b6&style=flat" alt="05-14th" /> </p><hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Commits,Experience,Followers,Repositories,Stars" alt="05-14th" /></a> </p>
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me **gerryvienlifeflores@gmail.com**
 
 - ⚡ Fun fact **I am the documentation**
+
+<hr>
 
 <h3 align="center">Current Skillset</h3><hr>
 <p align="center">
@@ -102,11 +104,11 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
   </a>
-</p>
+</p><hr>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=05-14th&show_icons=true&locale=en" alt="05-14th" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=05-14th&show_icons=true&locale=en&langs_count=8" alt="05-14th" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=05-14th&" alt="05-14th" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=05-14th&" alt="05-14th" /></p><hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
