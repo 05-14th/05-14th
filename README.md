@@ -109,8 +109,9 @@
 </p><hr>
 
 
-<p><img width="460px" align="center" src="https://github-readme-stats.vercel.app/api?username=05-14th&show_icons=true&locale=en" alt="05-14th" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=05-14th&show_icons=true&locale=en&langs_count=8" alt="05-14th" /></p>
-<p><img width="460px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=05-14th&" alt="05-14th" /></p><hr>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=05-14th&show_icons=true&locale=en" alt="05-14th" /></p>
+<p><a align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=05-14th&" alt="05-14th" /></p><hr>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=05-14th&show_icons=true&locale=en&langs_count=8" alt="05-14th" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
