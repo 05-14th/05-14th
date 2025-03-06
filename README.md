@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerry Vien Flores</h1>
-<h3 align="center">A passionate full-stack developer from Philippines</h3>
+<h3 align="center">
+  A passionate full-stack developer from Philippines. I'm a student and a freelancer who explores to expand my knowledge and skills to be competitive in the IT     industry.
+</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=05-14th&label=Profile%20views&color=0e75b6&style=flat" alt="05-14th" /> </p><hr>
 
