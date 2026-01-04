@@ -78,7 +78,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=05-14th)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05-14th)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img
