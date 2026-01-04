@@ -22,12 +22,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="[https://github-profile-trophy.vercel.app/?username=05-14th&no-frame=true&margin-w=10&margin-h=10](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)"
-      alt="GitHub Profile Trophy"
-    />
-  </a>
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)
 </p>
 
 <hr />
