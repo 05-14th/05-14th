@@ -75,13 +75,20 @@
 </p>
 
 <hr />
-<h2 align="center">📊 Profile Summary</h2>
+
+<h2 align="center">📊 Developer Overview</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05-14th&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/Interest-Game%20Development-purple" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-success" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Node.js%20%7C%20PHP-informational" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TailwindCSS-9cf" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue" />
+</p>
 
 <hr />
 
