@@ -79,7 +79,7 @@
 <h2 align="center">📊 Developer Overview</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue" />
   <img src="https://img.shields.io/badge/Interest-Game%20Development-purple" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-success" />
 </p>
