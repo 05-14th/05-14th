@@ -27,9 +27,8 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 🔭 Currently working on **Freelancing**
-- 🌱 Learning **Data Mining and Web Scraping**
-- 👯 Open to collaborating on **Game Development**
+- 🔭 Currently working on **SpendWise - FinanceAI**
+- 🌱 Learning **Machine Learning**
 - 🤝 Looking for guidance in **Game Development**
 - 💬 Ask me about **Python, Flask, Web Development**
 - 📫 Reach me at **gerryvienlifeflores@gmail.com**
