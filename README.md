@@ -21,7 +21,7 @@
 
 <hr />
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)</p>
+<p align="center">![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)</p>
 
 <hr />
 
@@ -75,31 +75,12 @@
 </p>
 
 <hr />
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05-14th)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">📊 Profile Summary</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=05-14th&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=05-14th&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=05-14th&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=05-14th&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 
 <hr />
