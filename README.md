@@ -21,10 +21,6 @@
 
 <hr />
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)
-
-<hr />
-
 <h2>👨‍💻 About Me</h2>
 
 - 🔭 Currently working on **SpendWise - FinanceAI**
