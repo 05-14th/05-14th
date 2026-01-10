@@ -21,7 +21,7 @@
 
 <hr />
 
-<p align="center">![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=05-14th)
 
 <hr />
 
